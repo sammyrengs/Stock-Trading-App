@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "696729188533",
+    "project_id": "my-stock-watchlist-app",
+    "storage_bucket": "my-stock-watchlist-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696729188533:android:e702194bff1a36b129e6fc",
+        "android_client_info": {
+          "package_name": "com.example.stock_trading_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696729188533-4qeevn0a7e2o7r5525icm0e7pohvmeg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIQuCJeWd1rrSXMcVtXi6j7fXwZ9nKEI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696729188533-4qeevn0a7e2o7r5525icm0e7pohvmeg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
