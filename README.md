@@ -2,15 +2,8 @@
 
 An app which shows realtime stock prices
 
-## Getting Started
+## Features
+Users can register and create an account to store their desired stocks and view their realtime prices. They can update their choice of stocks and username. A list of 'Top Stocks' is included which displays the stocks which have generally performed well.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Set up
+The API Key generated with Finnhub should be entered in the stock_price.dart file in the stock screens folder to view realtime stock prices.
