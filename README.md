@@ -10,3 +10,6 @@ The API Key generated with Finnhub should be entered in the stock_price.dart fil
 
 ## Tech Stack Used
 Flutter was used for the whole project. Firebase was used for authentication and storing all the data of each user. Finnhub API was used to facilitate the websocket protocol to fetch realtime stock prices.
+
+Video demonstrating the features of the app
+https://drive.google.com/drive/u/1/folders/14yVK286Z2bASC-BsztMQfVptKnKYG4h4
